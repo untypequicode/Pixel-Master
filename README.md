@@ -35,7 +35,7 @@ Similarly, you can use the ```drawTriangularPicture()```, ```drawCircularPicture
 Examples of using PixelMaster are available in the 'examples' folder. You can run them to see how to use the different PixelMaster methods.
 
 <p align="center">
-  <img src="doc/PixelMaster.gif" alt="PixelMaster" width=75%"/>
+  <img src="doc/img/PixelMaster.gif" alt="PixelMaster" width=75%"/>
 </p>
 
 ## Authors
