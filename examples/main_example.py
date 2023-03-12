@@ -1,5 +1,5 @@
 # Importe la classe PixelMaster du module PixelMaster
-from pixelmaster.Pixelmaster import PixelMaster
+from PixelMaster import *
 
 # Crée une instance de la classe PixelMaster à partir de l'image 'OriginalPicture.png'
 picture = PixelMaster(Image.open('examples/img/OriginalPicture.png'))
